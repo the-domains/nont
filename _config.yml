@@ -1,0 +1,28 @@
+name: Nont
+favicon: null
+layout_spectrum: 0.7431518854573369
+typography_spectrum: 0.12542019807733595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3825863196980208
+  lightness: 0.01714448630809784
+  saturation: 0.06048752763308585
+  rhythmicContrast: 0.5644150455482304
+purpose: []
